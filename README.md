@@ -1,4 +1,5 @@
 <h1 align="center"> Sistema de Cadastro e bonificacão de novos colaboradores </h1>
+[estrelas]c:\Users\uept42-user\Desktop\Jordana Mieko\estrelas.jpg
 
 ## descrição
 

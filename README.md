@@ -1,5 +1,4 @@
 <h1 align="center"> Sistema de Cadastro e bonificacão de novos colaboradores </h1>
-![estrelas](estrelas.jpg)
 
 ## descrição
 
